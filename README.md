@@ -1,4 +1,4 @@
-## Olá, sou o Jorge Luís Oliveira! 👋
+## Olá, sou o Jorge Luís Oliveira! 👨🏾‍💻
 Bem-vindo(a) ao meu GitHub!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e estou dando os meus primeiros passos no mundo da programação.
