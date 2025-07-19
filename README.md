@@ -1,7 +1,7 @@
 ## Olá, sou o Jorge Luís Oliveira! 👨🏾‍💻
 Bem-vindo(a) ao meu GitHub!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e estou dando os meus primeiros passos no mundo da programação.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e estou dando os meus primeiros passos no mundo da programação.
 
 🚀 Atualmente, estou em busca de uma oportunidade como Desenvolvedor para aplicar e expandir meus conhecimentos.
 
