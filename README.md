@@ -3,8 +3,6 @@ Bem-vindo(a) ao meu GitHub!
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e estou dando os meus primeiros passos no mundo da programação.
 
-🚀 Atualmente, estou em busca de uma oportunidade como Desenvolvedor para aplicar e expandir meus conhecimentos.
-
 <div>
 <a href="https://www.linkedin.com/in/jorge-lu%C3%ADs-oliveira-a538442ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = mailto:jorgelods21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
