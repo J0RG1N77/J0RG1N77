@@ -1,34 +1,49 @@
-## Olá, sou o Jorge Luís Oliveira! 👨🏾‍💻
-Bem-vindo(a) ao meu GitHub!
+<h1 align="left">Olá, meu nome é Jorge! 👨🏾‍💻</h1>
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e estou dando os meus primeiros passos no mundo da programação.
+###
 
-<div>
-<a href="https://www.linkedin.com/in/jorge-lu%C3%ADs-oliveira-a538442ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = mailto:jorgelods21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="left">👨🏾‍💻 Sobre mim:</h2>
+
+###
+
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>🚀 Atualmente estagiando e focado em construir soluções de software escaláveis e limpas.<br>🔥 Apaixonado por tecnologia, aprendizado constante e resolução de problemas reais.</p>
+
+###
+
+<h2 align="left">💻  Tecnologias:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-## 🤖 Linguagens e Tecnologias
+###
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt=jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h2 align="left">🌐 Redes sociais:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jorgelu%C3%ADsoliveira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jorgelods21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
- ##
-  
-  
-
-#### 📊 Estatísticas
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0RG1N77&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
   
