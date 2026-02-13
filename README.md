@@ -1,7 +1,7 @@
 # <p align="center">👨‍💻 Hey, Welcome!</p>
 
 <p align="center">
-  Meu nome é <strong>Jorge Luís Oliveira</strong>, sou estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência prática de 6 meses como estagiário, atuando com suporte técnico e desenvolvimento. Atualmente, estou focado em aprimorar meus conhecimentos em <strong>PHP e SQL</strong> enquanto busco oportunidades no mercado de TI.
+  Meu nome é <strong>Jorge Luís Oliveira</strong>, sou estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência prática de 6 meses como estagiário, atuando com suporte técnico e desenvolvimento. Atualmente, estou focado em aprimorar meus conhecimentos em <strong>PHP, SQL e JavaScript</strong>.
 </p>
 
 ---
@@ -17,11 +17,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="600" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvIM7ylknql nUE/giphy.gif" width="600" alt="Coding Gif" />
 </p>
 
 ---
