@@ -1,49 +1,33 @@
-<h1 align="left">Olá, meu nome é Jorge! 👨🏾‍💻</h1>
+# <p align="center">👨‍💻 Hey, Welcome!</p>
 
-###
+<p align="center">
+  Meu nome é <strong>Jorge Luís Oliveira</strong>, sou estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência prática de 6 meses como estagiário, atuando com suporte técnico e desenvolvimento. Atualmente, estou focado em aprimorar meus conhecimentos em <strong>PHP e SQL</strong> enquanto busco oportunidades no mercado de TI.
+</p>
 
-<h2 align="left">👨🏾‍💻 Sobre mim:</h2>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>🚀 Atualmente estagiando e focado em construir soluções de software escaláveis e limpas.<br>🔥 Apaixonado por tecnologia, aprendizado constante e resolução de problemas reais.</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-###
+---
 
-<h2 align="left">💻  Tecnologias:</h2>
+<p align="center">
+  <img src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="600" alt="Coding Gif" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### 📊 Estatísticas do GitHub
 
-###
-
-<h2 align="left">🌐 Redes sociais:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jorgelu%C3%ADsoliveira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:jorgelods21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-
-  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J0RG1N77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0RG1N77&layout=compact&langs_count=7&theme=dark"/>
+</p>
