@@ -24,5 +24,4 @@
 
 <p align="center">
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J0RG1N77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=J0RG1N77&layout=compact&langs_count=7&theme=tokyonight&hide_border=false&v=777"/>
 </p>
