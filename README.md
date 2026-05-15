@@ -1,7 +1,7 @@
 # <p align="center">👨🏽‍💻 Desenvolvedor de Sistemas em constante evolução</p>
 
 <p align="center">
-  Meu nome é <strong>Jorge Luís Oliveira</strong>, sou estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência prática de 6 meses como estagiário, atuando com suporte técnico e desenvolvimento. Atualmente, estou focado em aprimorar meus conhecimentos em <strong>PHP e SQL</strong> enquanto busco oportunidades no mercado de TI.
+  Meu nome é <strong>Jorge Luís Oliveira</strong>, sou estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho experiência prática de 6 meses como estagiário, atuando com suporte técnico e desenvolvimento. Atualmente, estou focado em aprimorar meus conhecimentos enquanto busco oportunidades no mercado de TI.
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,py,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,py,react,nodejs,github" />
 </p>
 
 ---
