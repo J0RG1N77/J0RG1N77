@@ -1,7 +1,7 @@
 # <p align="center">👨🏽‍💻 Desenvolvedor de Sistemas em constante evolução</p>
 
 <p align="center">
-  Olá! Sou <strong>Jorge Luís Oliveira</strong>, estudante do 4º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. 
+  Olá! Sou <strong>Jorge Luís Oliveira</strong>, estudante do 5º período de <strong>Análise e Desenvolvimento de Sistemas</strong>. 
   <br>
   Com experiência prática de 6 meses como estagiário em <strong>suporte técnico e desenvolvimento</strong>, atuo na construção de soluções web e sistemas eficientes. Atualmente, estou focado em aprofundar meus conhecimentos em <strong>Banco de dados e Automações</strong> enquanto busco oportunidades como Estagiário ou Desenvolvedor Júnior.
 </p>
